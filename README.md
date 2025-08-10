@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**YormanCeron/YormanCeron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Yorman Cerón! 👋
+📊 Data Analyst | 📈 Data Visualization | 📂 SQL • Python • Power BI
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm a Data Analyst Junior with knowledge in Python, SQL, Excel, and Power BI, passionate about transforming data into clear and actionable insights. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have developed personal projects ranging from learning the language itself, to data cleaning and exploratory analysis, to creating interactive dashboards. 
+
+My goal is to deliver value through clear and visually compelling data analysis while continuing to learn and grow professionally.
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yormancerong/)
+
+
+## 🛠 Skills
+Python (pandas, numpy, matplotlib, seaborn) | SQL |
+Power BI | Tableau | Excel avanzado | Git & GitHub
+
+
+## GitHub Stats
+
+![GitHub Stats](https://streak-stats.demolab.com?user=YormanCeron&theme=dark&hide_border=true)
+## Feedback
+
+If you have any feedback, please reach out to me at yorman.ceron@outlook.com
