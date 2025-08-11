@@ -16,7 +16,7 @@ My goal is to deliver value through clear and visually compelling data analysis 
 
 ## 🛠 Skills
 Python (pandas, numpy, matplotlib, seaborn) | SQL |
-Power BI | Tableau | Excel avanzado | Git & GitHub
+Power BI | Tableau | Advanced Excel | Git & GitHub
 
 
 ## GitHub Stats
